@@ -1,5 +1,5 @@
 # yolov5_TensorRT_C++_VS2019
-最近准备在工控机端利用TensorRT部署Yolov5，代码从https://github.com/yaoyi30/yolov5_TensorRT_C-这位大佬的网址下载的，在自己电脑上部署时需要注意一些细节，在此记录如下
+最近准备在工控机端利用TensorRT部署Yolov5，代码从https://github.com/yaoyi30/yolov5_TensorRT_C-  这位大佬的网址下载的，在自己电脑上部署时需要注意一些细节，在此记录如下
 
 # 环境要求
 
@@ -13,7 +13,7 @@ TensorRT-8.5.1.7.Windows10.x86_64.cuda-11.8.cudnn8.6
 
 Opencv452
 
-**注意：**Tensorrt下载上面要求的cudnn版本一定要与cuda下的cudnn一致，否则可能会报错
+注意：Tensorrt下载上面要求的cudnn版本一定要与cuda下的cudnn一致，否则可能会报错
 
 # 属性表配置
 
